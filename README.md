@@ -1,2 +1,2 @@
 # sandbox-tailwind
-TailwindCSS sandbox
+TailwindCSS sandbox.
